@@ -277,7 +277,6 @@ audio2, video2 = av.get_batch([1,3,5])
 ```
 
 
-
 ## Bridges for deep learning frameworks:
 
 It's important to have a bridge from decord to popular deep learning frameworks for training/inference
